@@ -13,6 +13,6 @@ function solve(num) {
         console.log(result ? `${i} -> True` : `${i} -> False`);
         sum = 0;
     }
-}
+} 
 
 solve(5)

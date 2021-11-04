@@ -1,1 +1,2 @@
 # DATA-TYPES-AND-VARIABLES
+# Arrays

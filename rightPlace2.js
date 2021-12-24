@@ -5,7 +5,7 @@ function solveForSecondTime(string1, char, string2){
      if(result == string2){
          console.log(`Matched`);
      } else {
-         console.log(`Not matched`);
+         console.log(`Not Matched`);
      }
 
 }
